@@ -1,0 +1,9 @@
+#Esto va a ignorar la carpeta streamlit
+.streamlit
+
+#Esto ignora la carpeta de streamlit
+.env
+.venv
+
+#Ignorar el archivo txt
+.txt
